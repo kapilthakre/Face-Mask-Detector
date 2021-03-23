@@ -1,1 +1,1 @@
-# Face-Mask-Detector
+# Real Time Face Mask Detector
