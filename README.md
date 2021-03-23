@@ -1,8 +1,8 @@
 # Real Time Face Mask Detector
 ![Python](https://img.shields.io/badge/Python-3.7-blue)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![Framework](https://img.shields.io/badge/Framework-Flask-red)
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+![Framework](https://img.shields.io/badge/Keras-2.3.0-red)
+![Frontend](https://img.shields.io/badge/OpenCV-HTML/CSS/JS-green)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
 
 
