@@ -7,4 +7,4 @@
 
 
 ## Overview
-In this project, we built a face mask detection system using Python, Keras/Tensorflow API, and OpenCV. This is an Image Classification Project. This face mask detection application takes input as real-time video or image and first it determines if there are any faces in the video or not. if there is, it predicts whether that face has worn a mask or not.
+In this project, we built a face mask detection system using Python, Keras/Tensorflow API, and OpenCV. This is an Image Classification Project. This face mask detection application takes input as real-time video or image and first it determines if there are any faces in the video or not. if there is, it predicts whether that face has worn a mask or not. This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19.
